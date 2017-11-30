@@ -1,0 +1,14 @@
+{
+    "permission.forum_postReplyOther.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "e167dc2e85bcceb4ddbd3bafc8cbccbc"
+    },
+    "permission.forum_postReplyOwn.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "5d77ae5fc809b23ed605c9ca88096250"
+    }
+}

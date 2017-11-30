@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "liam_splitReplyPerms",
+    "title": "Split Reply Permissions",
+    "description": "Split the post reply permission to post reply to own thread and post reply to others' threads.",
+    "version_id": 2000070,
+    "version_string": "2.0.0",
+    "dev": "LW Addons (Liam Williams)",
+    "dev_url": "https://lw-addons.net",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "Contribute on GitHub": "https://github.com/lw-addons/XenForo2-SplitReplyPerm"
+    },
+    "require": [],
+    "icon": ""
+}
